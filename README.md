@@ -40,7 +40,7 @@ The project was created as the **final project for the GoIT Python Core course**
 
 Clone repository
 
-git clone https://github.com/AnnaZapototska/project-drevo-team.git
+git clone https://github.com/rimsky3/project-drevo-team.git
 
 Enter project directory
 
