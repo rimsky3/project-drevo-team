@@ -268,7 +268,7 @@ This project was developed by
 
 Anna Zapototska  
 Bohdan Shcherbak  
-Roman Zhrun  
+Roman Zharun  
 Yuliia Herasymiuk
 
 ---
